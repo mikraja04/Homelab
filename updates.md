@@ -16,3 +16,8 @@
 - Successfully installed OMV and jellyfin with docker.
 - Setup an ssh connection between server and main PC, no longer any need to run around the house just to type in a single command :)
 - Tranfered my entire media library into jellyfish, able to access from anywhere.
+- Added network switch between router and main pc, to be able to keep server PC in my room.
+- Successfully setup tailscale VPN for secure connection outside of home network.
+- Acquired personal domain (xalslab.com).
+- Attempted to setup nginx reverse proxy to allow access to Jellyfin from jellyfin.xalslab.com and failed.
+- Acquired laptop for on-the-go network config

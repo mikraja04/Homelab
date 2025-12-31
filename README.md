@@ -9,6 +9,7 @@ Simple NAS / Media server made out of salvaged parts from around the house.
 - RAM: 16GB DDR3
 - Storage: something 480gb
 - Case: Tracer X-ray
+- network switch
 <!-- Check exact specs, it's embarrassing >:(  -->
 
 ## Notes
@@ -19,6 +20,8 @@ Simple NAS / Media server made out of salvaged parts from around the house.
 - OpenMediaVault
 - Jellyfin
 - Syncthing
+- Nginx
+- Pi-Hole
 
 ## What I've Achieved
 - Succesfully set up a basic jellyfin server with remote 
