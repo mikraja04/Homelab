@@ -41,3 +41,5 @@ down after changing it, and not waste 2-3 hours trying to find it. :DD
 - Research virtual security measures, since i'm pretty sure this setup is HELLA unsafe.
 - Learn basic linux and git commands by heart, tired of looking them up. (Partially complete, know my most used commands)
 - Setup remote connection to router dashboard
+- Research UPS options and purchase one
+- Research pFSense supported routers and purchase one to circumvent my current router's limitations
